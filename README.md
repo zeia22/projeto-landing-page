@@ -110,6 +110,16 @@ A sua Landing Page deve conter:
         * Promoções
     </details>
 - [ ] Deploy: O site deve está publicado na internet através do surge ou outra ferramenta.
+### Instruções para preparar o seu repositório
+
+- Faça o fork desse repositório e realize o clone da sua cópia `seu-nome-de-usuario/projeto-lista-intro-javascript`.
+   <details>
+   <summary>Quer uma dica?</summary>
+   <img src="https://firebasestorage.googleapis.com/v0/b/assets-conteudo.appspot.com/o/gerais%2Ffork.png?alt=media&token=7030e997-246a-41fe-a75f-2a2ced61e54d" alt="Como adicionar o projeto no repositório"/>
+   </details>
+- Crie os arquivos do projeto dentro deste repo;
+- **Lembre-se de abrir os PRs para seu próprio repositório.**
+- Para isso, você precisará fazer o projeto utilizando **branches**. Não faça as alterações direto na branch ```main```!
 
 ### Instruções de entrega
 
