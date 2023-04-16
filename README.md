@@ -6,7 +6,7 @@ Durante a construção desse site, serão estudados e praticados os seguintes co
 	* Flex
 	* Grid
 * DOM 
-
+eeee
 # Enunciado
 Você deverá desenvolver uma Landing Page para uma das empresas fictícias apresentadas. 
 
